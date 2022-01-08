@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ... i dont know
 - 📫 How to reach me ...
 
+- si hay un position absolute no hace falta poner un display block xD
+
 <!---
 Ivan-Azcurra/Ivan-Azcurra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
